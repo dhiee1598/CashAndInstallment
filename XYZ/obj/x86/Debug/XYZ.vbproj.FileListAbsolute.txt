@@ -1,0 +1,14 @@
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.FormMain.resources
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.FormHome.resources
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.Resources.resources
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.vbproj.GenerateResource.Cache
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\bin\Debug\XYZ.exe
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\bin\Debug\XYZ.pdb
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\bin\Debug\XYZ.xml
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.exe
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.xml
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.pdb
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.FormCustomer.resources
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.vbprojResolveAssemblyReference.cache
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.FormItem.resources
+C:\Users\Dexter\Documents\Visual Studio 2010\Projects\XYZ\XYZ\obj\x86\Debug\XYZ.FormSale.resources
